@@ -10,8 +10,8 @@
             "containers:/*": [
                 "./containers/*"
             ],
-            "assets:/*" [
-            "./assets/*"
+            "assets:/*": [
+                "./assets/*"
             ],
             "commons:/*": [
                 "./commons/*"
