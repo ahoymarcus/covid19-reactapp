@@ -4,6 +4,13 @@
 
 Um Progressive Web Application (PWA) para ser executada a partir do browser e funcionar como um aplicativo contendo funcionalidade próprias de aplicativos nativos. Tudo isso "rápido e fácil, sem precisar subir para a Play Store ou App Store".  <br>
 
+Usando também:
+
+- Styled Components
+- Material-ui da Google
+
+
+
 Projeto ligado ao curso "Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo" da plataforma de ensino da Digital Innovation One.
 
 
@@ -12,3 +19,26 @@ Projeto ligado ao curso "Desenvolvendo uma Progressive Web Application com React
 
 
 
+
+
+1. Visão geral do Covid19-App
+
+![Visão geral do Covid19-App](C:\Users\Marcus\Documents\Marcus\Programacao\_Digital Innovation One\Projetos\Desenvolvendo uma PWA com React para mapear a Covid19\covid19-reactapp\src\assets\images\visão geral.png)
+
+
+
+
+
+
+
+2. Visão do app numa tela média
+
+   ![Visão do app numa tela média](C:\Users\Marcus\Documents\Marcus\Programacao\_Digital Innovation One\Projetos\Desenvolvendo uma PWA com React para mapear a Covid19\covid19-reactapp\src\assets\images\visão tela média.png)
+
+
+
+
+
+3. Visão do app numa tela pequena
+
+   ![Visão do app numa tela pequena](C:\Users\Marcus\Documents\Marcus\Programacao\_Digital Innovation One\Projetos\Desenvolvendo uma PWA com React para mapear a Covid19\covid19-reactapp\src\assets\images\visão tela pequena.png)
