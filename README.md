@@ -23,7 +23,7 @@ Projeto ligado ao curso "Desenvolvendo uma Progressive Web Application com React
 
 1. Visão geral do Covid19-App
 
-![Visão geral do Covid19-App](src\assets\images\visão geral.png)
+![Visão geral do Covid19-App](public\visão geral.png)
 
 
 
@@ -33,7 +33,7 @@ Projeto ligado ao curso "Desenvolvendo uma Progressive Web Application com React
 
 2. Visão do app numa tela média
 
-   ![Visão do app numa tela média](src\assets\images\visão tela média.png)
+   ![Visão do app numa tela média](public\visão tela média.png)
 
 
 
@@ -41,4 +41,4 @@ Projeto ligado ao curso "Desenvolvendo uma Progressive Web Application com React
 
 3. Visão do app numa tela pequena
 
-   ![Visão do app numa tela pequena](src\assets\images\visão tela pequena.png)
+   ![Visão do app numa tela pequena](public\visão tela pequena.png)
